@@ -26,7 +26,8 @@ This is a group project carried out in 2020 during my Master 2 at IMT Nord Europ
 *Snapshot of the 3D representation of the Rubik's. The displayed face is the same as the one shown to the camera (with mirror effect)*
 
 ![solver video](readme_imgs/solving2.gif)
-*gif showing the stages of solving the Rubik's cube*
+
+- *gif showing the stages of solving the Rubik's cube*
 
 
 - Main technologies used: 
