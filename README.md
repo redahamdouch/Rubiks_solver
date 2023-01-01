@@ -1,8 +1,9 @@
 # Rubiks_solver
-
-
+## Did you know ? 
+- The number of possible combinations for a Rubik's cube is very large. It is estimated that there are about 43 quintillion (43 * 10^18) different possible combinations for a standard 3x3x3 Rubik's cube. To put this into perspective, this means that there are more possible combinations for a Rubik's cube than there are grains of sand on the planet Earth (7.5 x 10^18 grains of sand on Earth)
+- Solving a Rubiks Cube means finding THE combination 1/(43*10^18) where the colour of each side is uniform. It is quite simple if you follow well-defined algorithms.
+- The current world record for solving a Rubik's cube is 3.27 seconds, held by Yushung Du during his attempt in November 2018
 ## Objective
-Resolution of a Rubik's cube with a live display
 This is a group project carried out in 2020 during my Master 2 at IMT Nord Europe: 
 - **HAMDOUCH Réda**
 - **PAUBLANT Julien**
